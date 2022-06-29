@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@keplr-wallet/types": "^0.10.9",
     "next": "12.2.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "secretjs": "beta",
+    "siennajs": "1.0.0-rc.2"
   },
   "devDependencies": {
     "@types/node": "18.0.0",
